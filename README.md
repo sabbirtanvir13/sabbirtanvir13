@@ -1,19 +1,20 @@
-<!-- 🌟 Image Banner -->
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
+
 <p align="center">
   <img src="https://i.ibb.co/7k8qC3K/modern-blue-developer-banner.png" alt="developer banner" width="100%" />
 </p>
 
-<!-- 🌟 Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hi+I'm+Tavir+Ahmed+Sabbir;Full+Stack+Web+Developer;MERN+Stack+Specialist;Welcome+To+My+GitHub+Profile!" />
-</p>
-
-<h1 align="center">Hi 👋, I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbirtanvir13&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4FC3F7&center=true&vCenter=true&width=800&lines=;Full+Stack+Web+Developer;;Welcome+To+My+GitHub+Profile!" />
 </p>
+
+
 
 ---
 
@@ -63,9 +64,8 @@
 
 ## Featured Projects
 - 🔹 **Modern Portfolio Website** – React & Tailwind based professional portfolio.
-- 🔹 **Full-Stack Task Manager** – Node.js, Express, MongoDB CRUD App.
+- 🔹 **Full-Stack Artify website ** – Node.js, Express, MongoDB CRUD react.
 - 🔹 **E-commerce UI** – Responsive frontend with animations.
-*(Want me to add project links? Just tell me!)*
 
 ---
 
@@ -80,21 +80,13 @@
 
 ---
 
-## 💬 Developer Quote
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-
----
-## 🏆 Achievements
-- ⭐ Completed 20+ full-stack & frontend projects
-- ⭐ Strong command over MERN Stack
-- ⭐ Active open‑source learner & contributor
 
 ---
 
 ## 🎓 Education & Learning Path
 - 📘 Learning **Next.js & mongodb**
 - 📚 Improving **backend architecture & API security**
-- 🔍 Exploring **Docker & DevOps basics**
+- 🔍 Exploring **Next.js**
 
 ---
 
@@ -117,4 +109,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabbirtanvir13&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views" />
+</p>
+
 <h3 align="center">✨ Thanks for visiting my profile!</h3>
