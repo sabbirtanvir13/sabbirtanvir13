@@ -11,6 +11,9 @@
 <h1 align="center">Hi 👋, I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabbirtanvir13&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
@@ -23,19 +26,21 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://facebook.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-</a>
-<a href="https://github.com/sabbirtanvir13" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-<a href="https://instagram.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-<a href="https://linkedin.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  </a>
+  <a href="https://github.com/sabbirtanvir13" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
 </p>
+
+---
 
 ## 🛠️ Languages & Tools
 <p align="center">
@@ -53,9 +58,63 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirtanvir13&theme=tokyonight&hide_border=true" />
 </div>
- 
+
+---
+
+## Featured Projects
+- 🔹 **Modern Portfolio Website** – React & Tailwind based professional portfolio.
+- 🔹 **Full-Stack Task Manager** – Node.js, Express, MongoDB CRUD App.
+- 🔹 **E-commerce UI** – Responsive frontend with animations.
+*(Want me to add project links? Just tell me!)*
+
+---
+
+## 📈 My Coding Activity
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbirtanvir13&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirtanvir13&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
+
+---
+
+
+
+---
+
+## 💬 Developer Quote
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+
+---
+## 🏆 Achievements
+- ⭐ Completed 20+ full-stack & frontend projects
+- ⭐ Strong command over MERN Stack
+- ⭐ Active open‑source learner & contributor
+
+---
+
+## 🎓 Education & Learning Path
+- 📘 Learning **Next.js & mongodb**
+- 📚 Improving **backend architecture & API security**
+- 🔍 Exploring **Docker & DevOps basics**
+
+---
+
+
+---
+
+## 🏅 Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN-Expert-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Pro-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌍 Visitors Map
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbirtanvir13&theme=tokyonight"/>
+</p>
+
 ---
 <h3 align="center">✨ Thanks for visiting my profile!</h3>
