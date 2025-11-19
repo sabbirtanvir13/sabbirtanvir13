@@ -17,13 +17,8 @@
 
 
 ---
-
 ## 👤 About Me
-- 🔭 I'm currently working as a **Full Stack Web Developer**
-- 🌱 Learning **Next.js, TypeScript & Advanced Backend**
-- 💡 Love building modern UI, fast APIs & scalable systems
-- 🎯 Goal: Become a top-tier MERN Stack Engineer
-- ⚡ Fun fact: I debug faster with music 🎧
+Hi, I’m Tanvir Ahmed Sabbir — a passionate Full-Stack Web Developer who loves turning ideas into clean, functional, and user-friendly digital experiences. I’m currently focused on mastering modern web technologies like HTML, CSS, JavaScript, React, and Node.js through hands-on projects. I’m seeking internship or junior roles where I can grow, collaborate, and build scalable, impactful solutions.
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -95,7 +90,7 @@
 
 ## 🏅 Badges
 <p align="left">
-  <img src="https://img.shields.io/badge/MERN-Expert-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fontend-Expert-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-Pro-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge"/>
