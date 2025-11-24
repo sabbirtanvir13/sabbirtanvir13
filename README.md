@@ -47,12 +47,12 @@ Hi, I’m Tanvir Ahmed Sabbir — a passionate Full-Stack Web Developer who love
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sabbirtanvir13&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirtanvir13&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabbirtanvir13&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabbirtanvir13&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirtanvir13&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sabbirtanvir13&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
