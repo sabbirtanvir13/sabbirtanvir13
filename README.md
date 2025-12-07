@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
+<h1 align="center">Hi , I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQFOcZShvCO3Vw/profile-displaybackgroundimage-shrink_350_1400/B4EZocQO6MIIAY-/0/1761410610713?e=1765411200&v=beta&t=tnTFMTzmxkZeGRHWd2HLR1zasigv4p3rbKOdqipNMUE" alt="developer banner" width="100%" />
