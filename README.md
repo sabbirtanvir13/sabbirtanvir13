@@ -6,10 +6,11 @@
 <h1 align="center">Hi , I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4FC3F7&center=true&vCenter=true&width=800&lines=;Full+Stack+Web+Developer;;Welcome+To+My+GitHub+Profile!" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Welcome+To+My+GitHub+Profile" />
+</p>
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFOcZShvCO3Vw/profile-displaybackgroundimage-shrink_350_1400/B4EZocQO6MIIAY-/0/1761410610713?e=1769644800&v=beta&t=XFOu2ceHIurDn9xqIbfgyIpkiPgQRbCeNx4ZCxiAOyM" />
 </p>
 
 
