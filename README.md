@@ -80,9 +80,15 @@ Hi, I’m Tanvir Ahmed Sabbir — a passionate Full-Stack Web Developer who love
 ---
 
 ## 🎓 Education & Learning Path
-- 📘 Learning **Next.js & mongodb**
-- 📚 Improving **backend architecture & API security**
-- 🔍 Exploring **Next.js**
+
+* 📘 Learning **TypeScript, Next.js, PostgreSQL & Prisma**
+* ⚙️ Building **REST APIs, Authentication Systems & Full-Stack Applications**
+* 📚 Improving **Backend Architecture, Database Design & API Security**
+* 🐳 Exploring **Docker, Nginx & Modern Deployment Workflows**
+* ☁️ Learning **AWS Cloud Services (EC2, S3, IAM & CI/CD)**
+* 🤖 Studying **AI Engineering, RAG, Vector Databases & AI Integrations**
+* 🧪 Practicing **Software Testing, Debugging & Clean Code Principles**
+
 
 ---
 
