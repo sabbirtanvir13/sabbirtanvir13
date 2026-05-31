@@ -38,12 +38,12 @@ Hi, I’m Tanvir Ahmed Sabbir — a passionate Full-Stack Web Developer who love
 
 ---
 
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,firebase,docker,aws,git,github,postman,figma,vscode" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
