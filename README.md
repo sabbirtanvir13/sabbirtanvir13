@@ -99,7 +99,7 @@ Hi, I’m Tanvir Ahmed Sabbir — a passionate Full-Stack Web Developer who love
 <p align="left">
   <img src="https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-TypeScript-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Building-Full_Stack_Apps-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Building-Full_Stack_Website-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Exploring-AI_Engineering-purple?style=for-the-badge"/>
 </p>
 ---
