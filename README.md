@@ -18,7 +18,12 @@
 
 ---
 ## 👤 About Me
-Hi, I’m Tanvir Ahmed Sabbir — a passionate Full-Stack Web Developer who loves turning ideas into clean, functional, and user-friendly digital experiences. I’m currently focused on mastering modern web technologies like HTML, CSS, JavaScript, React, and Node.js through hands-on projects. I’m seeking internship or junior roles where I can grow, collaborate, and build scalable, impactful solutions.
+
+Hi, I'm **Tanvir Ahmed Sabbir**, a passionate Full-Stack Web Developer with a strong interest in building modern, responsive, and scalable web applications.
+
+I work with technologies like **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, and TypeScript**, and I'm constantly improving my skills through real-world projects and continuous learning.
+
+🎯 Currently seeking **Internship** and **Junior Developer** opportunities to gain industry experience and contribute to impactful projects.
 
 ## 🌐 Connect With Me
 <p align="left">
