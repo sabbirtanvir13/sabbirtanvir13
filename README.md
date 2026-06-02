@@ -6,7 +6,7 @@
 <h1 align="center">Hi , I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D4E16AQFOcZShvCO3Vw/profile-displaybackgroundimage-shrink_350_1400/B4EZocQO6MIIAY-/0/1761410610713?e=1769644800&v=beta&t=XFOu2ceHIurDn9xqIbfgyIpkiPgQRbCeNx4ZCxiAOyM](https://drive.google.com/file/d/1xAqYKeMrCoQFtrsJU8JD6WGUckLYd9Ck/view?usp=sharing)" />
+ <img src="https://drive.google.com/file/d/1xAqYKeMrCoQFtrsJU8JD6WGUckLYd9Ck/view?usp=sharing" />
 </p>
 
 
