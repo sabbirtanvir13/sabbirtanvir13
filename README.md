@@ -6,7 +6,7 @@
 <h1 align="center">Hi , I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
 
 <p align="center">
- <img src="https://drive.google.com/file/d/1xAqYKeMrCoQFtrsJU8JD6WGUckLYd9Ck/view?usp=sharing" />
+<img src="https://drive.google.com/uc?export=view&id=1xAqYKeMrCoQFtrsJU8JD6WGUckLYd9Ck" width="100%">
 </p>
 
 
