@@ -63,33 +63,107 @@ I work with technologies like **React, Next.js, Node.js, Express, MongoDB, Postg
 
 ## 🚀 Featured Projects
 
-### 💼 Modern Portfolio Website
-> A professional portfolio website built with React and Tailwind CSS.
+<table>
+<tr>
 
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<td width="50%">
 
----
+### 🎨 Artify - MERN Stack
 
-### 🎨 Artify (Full-Stack MERN)
-> A full-stack artwork showcase platform with authentication, CRUD operations, likes, and user dashboard.
+<img src="https://your-image-link.com/artify.png" alt="Artify Preview"/>
 
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+A full-stack artwork showcase platform where artists can upload, manage, and explore creative artworks with authentication and CRUD functionality.
 
----
+**Tech Stack**
 
-### 🛒 E-commerce UI
-> A modern responsive e-commerce frontend with animations and clean user experience.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+<br><br>
+
+<a href="https://artify-live.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge">
+</a>
+
+<a href="https://github.com/yourusername/artify">
+<img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💼 Modern Portfolio
+
+<img src="https://your-image-link.com/portfolio.png" alt="Portfolio Preview"/>
+
+A responsive developer portfolio showcasing projects, skills, experience, and contact information with a modern UI.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer)
+
+<br><br>
+
+<a href="https://portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge">
+</a>
+
+<a href="https://github.com/yourusername/portfolio">
+<img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 E-Commerce UI
+
+<img src="https://your-image-link.com/ecommerce.png" alt="E-Commerce Preview"/>
+
+A responsive e-commerce frontend with modern animations, product pages, shopping cart, and mobile-first design.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+<br><br>
+
+<a href="https://ecommerce-demo.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge">
+</a>
+
+<a href="https://github.com/yourusername/ecommerce-ui">
+<img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h2>✨ More Projects</h2>
+
+Explore all my repositories on GitHub.
+
+<br><br>
+
+<a href="https://github.com/yourusername?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Projects-FF6C37?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## 📈 My Coding Activity
 <p align="center">
