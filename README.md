@@ -61,14 +61,35 @@ I work with technologies like **React, Next.js, Node.js, Express, MongoDB, Postg
   <img src="https://streak-stats.demolab.com?user=sabbirtanvir13&theme=tokyonight&hide_border=true" />
 </div>
 
+## 🚀 Featured Projects
+
+### 💼 Modern Portfolio Website
+> A professional portfolio website built with React and Tailwind CSS.
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 ---
 
-## Featured Projects
-- 🔹 **Modern Portfolio Website** – React & Tailwind based professional portfolio.
-- 🔹 **Full-Stack Artify website ** – Node.js, Express, MongoDB CRUD react.
-- 🔹 **E-commerce UI** – Responsive frontend with animations.
+### 🎨 Artify (Full-Stack MERN)
+> A full-stack artwork showcase platform with authentication, CRUD operations, likes, and user dashboard.
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
+
+### 🛒 E-commerce UI
+> A modern responsive e-commerce frontend with animations and clean user experience.
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 ## 📈 My Coding Activity
 <p align="center">
