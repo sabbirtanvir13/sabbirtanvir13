@@ -10,7 +10,7 @@
 <!-- Main Banner -->
 <p align="center">
   <img
-    src="YOUR_MAIN_BANNER_IMAGE_URL"
+    src="[YOUR_MAIN_BANNER_IMAGE_UR](https://media.licdn.com/dms/image/v2/D4D16AQHZDvk-7oUqBw/profile-displaybackgroundimage-shrink_350_1400/B4DZ8caXpeGwAU-/0/1782888102793?e=1788998400&v=beta&t=f1tDGvyUpjgavhCoYWuAg84tkQng7pTh3w2ii3hLWoI)L"
     width="100%"
     alt="Tavir Ahmed Sabbir"
   />
