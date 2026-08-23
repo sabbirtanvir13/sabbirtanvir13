@@ -19,7 +19,7 @@
 <!-- Animated Full-Stack Developer -->
 <p align="center">
   <img
-    src="YOUR_ANIMATED_FULLSTACK_GIF_URL"
+    src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000049a88207b3b6266c384ec1e8&ts=496516&p=fs&cid=1&sig=ae93e79de2ed29c32973b5ac1a1dfa429fc0a17436140b0085cce3833c122570&v=0"
     width="80%"
     alt="Full-Stack Developer Animation"
   />
