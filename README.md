@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Welcome+To+My+GitHub+Profile" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHZDvk-7oUqBw/profile-displaybackgroundimage-shrink_350_1400/B4DZ8caXpeGwAU-/0/1782888102793?e=1788998400&v=beta&t=f1tDGvyUpjgavhCoYWuAg84tkQng7pTh3w2ii3hLWoI" />
 </p>
 
 
