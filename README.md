@@ -3,15 +3,16 @@
 
 
 
-<h1 align="center">Hi , I'm <span style='color:#4FC3F7;'>Tavir Ahmed Sabbir</span></h1>
+<h1 align="center">
+  Hi, I'm <span style="color:#4FC3F7;">Tavir Ahmed Sabbir</span>
+</h1>
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHZDvk-7oUqBw/profile-displaybackgroundimage-shrink_200_800/B4DZ8caXpeGwAQ-/0/1782888102792?e=1785369600&v=beta&t=dSPWhL4Vs0crtnLvcDoFJpu12LuDPW2C3eT2GHXeVoQ" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHZDvk-7oUqBw/profile-displaybackgroundimage-shrink_350_1400/B4DZ8caXpeGwAU-/0/1782888102793?e=1788998400&v=beta&t=f1tDGvyUpjgavhCoYWuAg84tkQng7pTh3w2ii3hLWoI" />
+  <img 
+    src="YOUR_FULLSTACK_ANIMATED_GIF_URL"
+    width="100%"
+    alt="Full Stack Developer Animation"
+  />
 </p>
 
 
