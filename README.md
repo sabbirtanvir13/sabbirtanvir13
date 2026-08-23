@@ -7,11 +7,21 @@
   Hi, I'm <span style="color:#4FC3F7;">Tavir Ahmed Sabbir</span>
 </h1>
 
+<!-- Main Banner -->
 <p align="center">
-  <img 
-    src="YOUR_FULLSTACK_ANIMATED_GIF_URL"
+  <img
+    src="YOUR_MAIN_BANNER_IMAGE_URL"
     width="100%"
-    alt="Full Stack Developer Animation"
+    alt="Tavir Ahmed Sabbir"
+  />
+</p>
+
+<!-- Animated Full-Stack Developer -->
+<p align="center">
+  <img
+    src="YOUR_ANIMATED_FULLSTACK_GIF_URL"
+    width="80%"
+    alt="Full-Stack Developer Animation"
   />
 </p>
 
