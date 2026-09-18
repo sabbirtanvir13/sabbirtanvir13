@@ -66,11 +66,11 @@ I work with technologies like **React, Next.js, Node.js, Express, MongoDB, Postg
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sabbirtanvir13&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=sabbirtanvir13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirtanvir13&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirtanvir13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
     width="48%"
   />
 </p>
@@ -80,8 +80,7 @@ I work with technologies like **React, Next.js, Node.js, Express, MongoDB, Postg
     src="https://streak-stats.demolab.com/?user=sabbirtanvir13&theme=tokyonight&hide_border=true"
     width="70%"
   />
-</p>
-
+</p> 
 ## 🚀 Featured Projects
 
 <table>
