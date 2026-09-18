@@ -66,7 +66,7 @@ I work with technologies like **React, Next.js, Node.js, Express, MongoDB, Postg
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sabbirtanvir13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=sabbirtanvir13&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
   />
   <img
