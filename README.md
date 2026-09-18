@@ -16,13 +16,8 @@
   />
 </p>
 
-<!-- Animated Full-Stack Developer -->
 <p align="center">
-  <img
-    src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000049a88207b3b6266c384ec1e8&ts=496516&p=fs&cid=1&sig=ae93e79de2ed29c32973b5ac1a1dfa429fc0a17436140b0085cce3833c122570&v=0"
-    width="80%"
-    alt="Full-Stack Developer Animation"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Welcome+To+My+GitHub+Profile" alt="Typing SVG" />
 </p>
 
 
