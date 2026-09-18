@@ -62,25 +62,23 @@ I work with technologies like **React, Next.js, Node.js, Express, MongoDB, Postg
 </p>
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sabbirtanvir13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirtanvir13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    width="48%"
+    src="./github-metrics.svg"
+    width="95%"
+    alt="GitHub Activity"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=sabbirtanvir13&theme=tokyonight&hide_border=true"
-    width="70%"
+    src="./github-snake-dark.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
   />
-</p> 
+</p>
 ## 🚀 Featured Projects
 
 <table>
